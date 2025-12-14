@@ -44,7 +44,7 @@ Pair-Pilot-Testing/
 │
 ├── drivers/               # (optional – webdriver-manager auto handles this)
 │
-|
+|── requirements.txt
 └── README.md
 ```
 
@@ -131,4 +131,5 @@ webdriver-manager>=4.0.1
 This repository fulfills the requirement for **automated black box testing** of the PairPilot IDE using Selenium. The tests validate core user workflows and provide documented evidence suitable for academic submission.
 
 ---
+
 
